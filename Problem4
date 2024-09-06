@@ -1,0 +1,4 @@
+## Largest palindromic product
+https://projecteuler.net/problem=4
+
+f:{x*!1000};pal:{.|$x};pal 1000;a:!1000;a:f' a;a:,/ a;a:a@&0=a-pal' a;|/a
