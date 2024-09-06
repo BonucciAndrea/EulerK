@@ -15,11 +15,6 @@ In this repository, you will find solutions to various problems from Project Eul
   - Functional programming constructs
   - High-performance operations on large datasets
 
-# Structure
-
-  - Problem Files: Each Project Euler problem will have its own file (e.g., problem1.k, problem2.k) that contains the problem statement, followed by a solution implemented in K.
-  - Comments & Explanations: Each file includes comments explaining the thought process behind the solution and highlights key K language features used.
-
 # Why K + Euler?
 
 Project Euler's problems are a fantastic way to get hands-on with the language and understand its strengths, especially when it comes to handling large arrays, functional paradigms, and mathematical computation.
