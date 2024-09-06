@@ -11,14 +11,14 @@ K is a concise, high-performance array language, developed for fast processing o
 
 In this repository, you will find solutions to various problems from Project Euler, a collection of challenging mathematical/computational problems. Each problem serves as an opportunity to explore K's unique capabilities, such as:
 
-  -Array manipulation and slicing
-  -Functional programming constructs
-  -High-performance operations on large datasets
+  - Array manipulation and slicing
+  - Functional programming constructs
+  - High-performance operations on large datasets
 
 # Structure
 
-  -Problem Files: Each Project Euler problem will have its own file (e.g., problem1.k, problem2.k) that contains the problem statement, followed by a solution implemented in K.
-  -Comments & Explanations: Each file includes comments explaining the thought process behind the solution and highlights key K language features used.
+  - Problem Files: Each Project Euler problem will have its own file (e.g., problem1.k, problem2.k) that contains the problem statement, followed by a solution implemented in K.
+  - Comments & Explanations: Each file includes comments explaining the thought process behind the solution and highlights key K language features used.
 
 # Why K + Euler?
 
