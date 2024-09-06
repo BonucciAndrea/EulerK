@@ -4,9 +4,13 @@
 
 ## Problem 2: Even Fibonacci numbers
 
-n : 0 1  
-do[32; n : {(x,+/-2#x)}n]
-+/ n@&0=n!2
+n:0 1;do[32;n:{(x,+/-2#x)}n];+/n@&0=n!2
+
+## Problem 3: Largest prime factor
+
+n:600851475143;f:{&/x!/:2_!x};list:1_! _ceil_sqrt n;list:list@&0=n!/:list;f _ceil_sqrt n;list:list@&1=f' list;|/list
+
+
 
 
 
