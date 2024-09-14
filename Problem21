@@ -1,0 +1,6 @@
+## Amicable Numbers
+https://projecteuler.net/problem=21
+
+d : {+/(!1+ _ceil x%2)*(0 = x!/:!1+_ceil x%2)}; d 284; n : !10000;a : d' n
+b : d' a;
+j : n*(b=n); j : j @& 1 < j;j : j @& 0 <_sqr j - d' j;+/ j
